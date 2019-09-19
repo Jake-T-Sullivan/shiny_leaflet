@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "big_rect",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1, "SHAPE_Leng": 16467853.2587, "SHAPE_Area": 16628393471700.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -14003051.654899999499, 6198317.271499998867512 ], [ -9304042.256899999455, 6187733.917000003159046 ], [ -9304042.256899999455, 2642310.159499999136 ], [ -13971301.5914, 2642310.159499999136 ], [ -14003051.654899999499, 6198317.271499998867512 ] ] ] ] } }
+]
+}
